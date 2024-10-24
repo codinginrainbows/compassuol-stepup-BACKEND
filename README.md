@@ -1,4 +1,4 @@
-## API IN USE :link: [https://github.com/codinginrainbows/compass-react](https://github.com/codinginrainbows/compass-react/tree/integration_nest-backend) -> Branch: integration_nest-backend
+## API IN USE :link: [https://github.com/codinginrainbows/compassuol-stepup-FRONTEND](https://github.com/codinginrainbows/compassuol-stepup-FRONTEND/tree/integration_nest-backend) -> Branch: integration_nest-backend
 
 ## :file_folder: Index
 * [Features](#hammer-features)
