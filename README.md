@@ -37,8 +37,8 @@
 
 ## :gear: Setup
 
-1. `git clone https://github.com/codinginrainbows/compass-nest` to clone the project
-2. `cd compass-nest` to access the project directory
+1. `git clone https://github.com/codinginrainbows/compassuol-stepup-BACKEND` to clone the project
+2. `cd compassuol-stepup-BACKEND` to access the project directory
 3. `git checkout master` to access the branch with the latest updates
 4. `npm i` to install project dependencies
 5. `npm run start:dev` to run the project
